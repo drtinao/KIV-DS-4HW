@@ -62,3 +62,5 @@ Během mého testování se po provedení uvedených kroků kontejner vyskytl ve
 3) Spuštění aplikace
 
 Pro spuštění je potřeba mít nainstalován Vagrant a Docker. Poté stačí v kořenovém adresáři pouze zadat příkaz „vagrant up“ a aplikace bude sestavena / spuštěna. Program následně běží do té doby než je ukončen (např. ctrl + c). V terminálu lze následně vidět zprávy, které jsou vysílány / přijímány jednotlivými klienty. Při výpadku některého z brokerů, jež byl využíván klientem, vypisuje klient informace o výpadku spojení / průběho přechodu na jiného brokera.
+
+Vypisované Lorem Imsum je generováno knihovnou "lorem".
